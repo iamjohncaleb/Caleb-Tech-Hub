@@ -1,6 +1,5 @@
 <div align="center">
   <br />
-      <img src="https://i.postimg.cc/5NR9bxFM/Sora-README.png" alt="Project Banner">
     </a>
   <br />
 
