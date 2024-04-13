@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/NativeWind-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="nativewind" />
   </div>
 
-  <h3 align="center">Video Sharing App</h3>
+  <h3 align="center">Caleb Tech Hub</h3>
 
 </div>
 
